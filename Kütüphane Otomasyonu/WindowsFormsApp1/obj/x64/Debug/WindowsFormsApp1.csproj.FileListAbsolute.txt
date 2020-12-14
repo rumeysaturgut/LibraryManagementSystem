@@ -1,0 +1,131 @@
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.alim_dialog.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.alim_teslim.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ayarlar.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.kitaplar.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.kitap_bilgisi.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.kitap_ekle.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ogrenciler.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ogr_ekle.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.teslim_form.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ogrenci_bilgisi.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.graph.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.alim_dialog.resources
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.alim_teslim.resources
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ayarlar.resources
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.graph.resources
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.kitaplar.resources
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.kitap_bilgisi.resources
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.kitap_ekle.resources
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ogrenciler.resources
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ogrenci_bilgisi.resources
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ogr_ekle.resources
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.teslim_form.resources
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\Users\MONSTER\Desktop\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.alim_dialog.resources
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.alim_teslim.resources
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ayarlar.resources
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.graph.resources
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.kitaplar.resources
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.kitap_bilgisi.resources
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.kitap_ekle.resources
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ogrenciler.resources
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ogrenci_bilgisi.resources
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ogr_ekle.resources
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.teslim_form.resources
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\Users\MONSTER\Desktop\projeler\GÖRSEL PROGRAMLAMA PROJESİ\c# proje (1)\c# proje (1)\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.alim_dialog.resources
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.alim_teslim.resources
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ayarlar.resources
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.graph.resources
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.kitaplar.resources
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.kitap_bilgisi.resources
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.kitap_ekle.resources
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ogrenciler.resources
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ogrenci_bilgisi.resources
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ogr_ekle.resources
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.teslim_form.resources
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\Users\MONSTER\Desktop\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.alim_dialog.resources
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.alim_teslim.resources
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ayarlar.resources
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.graph.resources
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.kitaplar.resources
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.kitap_bilgisi.resources
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.kitap_ekle.resources
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ogrenciler.resources
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ogrenci_bilgisi.resources
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ogr_ekle.resources
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.teslim_form.resources
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+D:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.alim_dialog.resources
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.alim_teslim.resources
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ayarlar.resources
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.graph.resources
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.kitaplar.resources
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.kitap_bilgisi.resources
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.kitap_ekle.resources
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ogrenciler.resources
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ogrenci_bilgisi.resources
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.ogr_ekle.resources
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.teslim_form.resources
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+E:\!!!DERS NOTLARI!!!\3.SINIF\projeler\GÖRSEL PROGRAMLAMA PROJESİ\Kütüphane Otomasyonu\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb

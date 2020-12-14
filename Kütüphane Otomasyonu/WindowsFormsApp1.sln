@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{B23426B8-9B82-48B6-9A6D-EEA3FD0EDEF3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Kütüphane Otomsayonu Installer", "Kütüphane Otomsayonu Installer\Kütüphane Otomsayonu Installer.vdproj", "{BAE304E4-23D5-4ACA-B515-212634E01482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B23426B8-9B82-48B6-9A6D-EEA3FD0EDEF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23426B8-9B82-48B6-9A6D-EEA3FD0EDEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23426B8-9B82-48B6-9A6D-EEA3FD0EDEF3}.Debug|x64.ActiveCfg = Debug|x64
+		{B23426B8-9B82-48B6-9A6D-EEA3FD0EDEF3}.Debug|x64.Build.0 = Debug|x64
+		{B23426B8-9B82-48B6-9A6D-EEA3FD0EDEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23426B8-9B82-48B6-9A6D-EEA3FD0EDEF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23426B8-9B82-48B6-9A6D-EEA3FD0EDEF3}.Release|x64.ActiveCfg = Release|x64
+		{B23426B8-9B82-48B6-9A6D-EEA3FD0EDEF3}.Release|x64.Build.0 = Release|x64
+		{BAE304E4-23D5-4ACA-B515-212634E01482}.Debug|Any CPU.ActiveCfg = Debug
+		{BAE304E4-23D5-4ACA-B515-212634E01482}.Debug|x64.ActiveCfg = Debug
+		{BAE304E4-23D5-4ACA-B515-212634E01482}.Release|Any CPU.ActiveCfg = Release
+		{BAE304E4-23D5-4ACA-B515-212634E01482}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0150EB2-999C-4C68-9580-80DCE3546C94}
+	EndGlobalSection
+EndGlobal

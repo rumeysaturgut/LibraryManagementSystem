@@ -1,0 +1,67 @@
+C:\Users\MONSTER\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MONSTER\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MONSTER\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MONSTER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\MONSTER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ogrenciler.resources
+C:\Users\MONSTER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MONSTER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MONSTER\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ogr_ekle.resources
+C:\Users\alaza\Desktop\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\alaza\Desktop\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\alaza\Desktop\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\alaza\Desktop\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\alaza\Desktop\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\alaza\Desktop\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ogrenciler.resources
+C:\Users\alaza\Desktop\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ogr_ekle.resources
+C:\Users\alaza\Desktop\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\alaza\Desktop\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\alaza\Desktop\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\alaza\Desktop\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\alaza\Desktop\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\alaza\Desktop\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kitaplar.resources
+C:\Users\alaza\Desktop\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kitap_ekle.resources
+C:\Users\alaza\Desktop\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.alim_teslim.resources
+C:\Users\alaza\Desktop\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.alim_dialog.resources
+C:\Users\alaza\Desktop\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kitap_bilgisi.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.alim_dialog.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.alim_teslim.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kitaplar.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kitap_bilgisi.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kitap_ekle.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ogrenciler.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ogr_ekle.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.teslim_form.resources
+C:\Users\MONSTER\Desktop\c# proje\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MONSTER\Desktop\c# proje\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MONSTER\Desktop\c# proje\c# proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MONSTER\Desktop\c# proje\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\c# proje\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.alim_dialog.resources
+C:\Users\MONSTER\Desktop\c# proje\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.alim_teslim.resources
+C:\Users\MONSTER\Desktop\c# proje\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\MONSTER\Desktop\c# proje\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kitaplar.resources
+C:\Users\MONSTER\Desktop\c# proje\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kitap_bilgisi.resources
+C:\Users\MONSTER\Desktop\c# proje\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kitap_ekle.resources
+C:\Users\MONSTER\Desktop\c# proje\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ogrenciler.resources
+C:\Users\MONSTER\Desktop\c# proje\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ogr_ekle.resources
+C:\Users\MONSTER\Desktop\c# proje\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\c# proje\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.teslim_form.resources
+C:\Users\MONSTER\Desktop\c# proje\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\c# proje\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\c# proje\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MONSTER\Desktop\c# proje\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MONSTER\Desktop\c# proje\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ayarlar.resources
+C:\Users\alaza\source\repos\c# proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ayarlar.resources
